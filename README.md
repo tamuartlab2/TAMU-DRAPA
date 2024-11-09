@@ -1,7 +1,7 @@
 <h1>DRAPA:  Dataset for Robotic Automation and Precision Agriculture in Cotton and Peanut Fields</h1>
 
 <p align="center">
-<a href="https://www.tamu.edu/"><img src="images/tamu_logo.png" alt="Texas A&M University" height="90px" width="450px">
+<a href="https://www.tamu.edu/"><img src="Images/tamu_logo.png" alt="Texas A&M University" height="200px" width="1000px">
   
 Yuan Wei<sup>1</sup>, Neha Vemula<sup>1</sup>, Joe Johnson<sup>2</sup>, Jose Landivar<sup>3</sup>, Oscar Fernandez<sup>3</sup>, Shrikrishna
 Gad<sup>1</sup>, Dugan Um<sup>4</sup>, Robert Hardin<sup>5</sup>, John Cason<sup>6</sup>, Mahendra Bhandari<sup>3</sup>, Muthukumar
@@ -24,7 +24,9 @@ We employed mobile robotic platforms for data collection. Each robot was built o
   * Accelerometer: Measures linear acceleration.
 This suite allows for visual, spatial, and positional data collection for various applications.
 
-![Sensor suit](./image/robot_sensors.png)
+<p align="center">
+  
+![Platform and Sensor suit for data collection](/Images/robot_sensors.png)
 
 ## Recorded data folder structure
 <pre>

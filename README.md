@@ -84,12 +84,30 @@ This command replays messages in their original sequence and timing, opening the
 
 Example screenshot of the terminal running rosbag file:
 
-For detailed data analysis, users can subscribe to specific topics by using the ros2 topic echo command followed by the topic name in another terminal, for example:
+<p align="center">
+  
+![Rosbag play](/Images/GitHub_instr_1.png)
+
+
+For detailed data analysis, users can subscribe to specific topics in another terminal by using the ros2 topic list to display all the available ros2 topics and ros2 topic echo command followed by the topic name, for example:
 ```bash
-ros2 topic echo <topic_name>
+ros2 topic list
 ```
 Example screenshot of the terminal with topic names:
 
+<p align="center">
+  
+![Topic list](/Images/GitHub_instr_2.png)
+
+
+
+```bash
+ros2 topic echo <topic_name>
+```
+Example screenshot of the terminal with topic echo of Teensy IMU data:
+<p align="center">
+  
+![Topic echo](/Images/echo_topic.png)
 
 ## Full data download link:
 Drive link

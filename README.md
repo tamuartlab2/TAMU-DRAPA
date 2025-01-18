@@ -110,5 +110,6 @@ Example screenshot of the terminal with topic echo of Teensy IMU data:
 ![Topic echo](/Images/echo_topic.png)
 
 ## Full data download link:
-Drive link
+[Google Drive link](https://drive.google.com/drive/folders/1Sg-sVMUoNElCTnxhvHg9FKXeb63CkkSa)
+
 

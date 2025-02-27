@@ -8,8 +8,8 @@ Gad<sup>1</sup>, Dugan Um<sup>4</sup>, Robert Hardin<sup>5</sup>, John Cason<sup
 Bagavathiannan<sup>2</sup>, and Kiju Lee<sup>7,1</sup>
 
 <a href="https://engineering.tamu.edu/mechanical/index.html">J. Mike Walker ’66 Department of Mechanical Engineering<sup>1</sup>;
-<a href="https://ccag.tamu.edu/">Texas A&M AgriLife Center at Corpus Christi<sup>3</sup>;
 <a href="https://soilcrop.tamu.edu/">Department of Soil and Crop Sciences<sup>2</sup>;
+<a href="https://ccag.tamu.edu/">Texas A&M AgriLife Center at Corpus Christi<sup>3</sup>;
 <a href="https://www.tamucc.edu/engineering/">College of Engineering and Computer Science<sup>4</sup>;
 <a href="https://baen.tamu.edu/">Department of Biological & Agricultural Engineering<sup>5</sup>;
 <a href="https://stephenville.tamu.edu/">Texas A&M AgriLife Center at Stephenville<sup>6</sup>;

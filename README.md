@@ -36,7 +36,7 @@ This suite allows for visual, spatial, and positional data collection for variou
 
 ## Recorded data folder structure
 <pre>
-Data
+TAMU-DRAPA
 ├── CS_cotton_2023
 │   ├── Depth_data                               // Contains depth images in .png
 │   ├── RGB_data                                 // Contains RGB images in .jpg
@@ -45,7 +45,7 @@ Data
 │       └── rosbag2_2023_06_10-12_17_11_0.db3    // Raw data with timestamped messages for multi-sensor analysis
 ├── CS_cotton_2024
 ├── CS_peanut_2023
-├──  CS_peanut_2024
+├── CS_peanut_2024
 ├── CC_Field_2024
 </pre>
 
